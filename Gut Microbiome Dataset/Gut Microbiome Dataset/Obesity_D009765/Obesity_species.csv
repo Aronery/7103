@@ -1,0 +1,415 @@
+﻿phenotype,taxonomy rank level,NCBI taxon id,scientific name,super kingdom,Nr. runs in which the species/genus can be found,mean relative abundance,median relative abundance,SD of relative abundance
+D009765,species,167,Treponema succinifaciens,Bacteria,1,14.5135,14.5135,
+D009765,species,197,Campylobacter jejuni,Bacteria,1,0.20395,0.20395,
+D009765,species,199,Campylobacter concisus,Bacteria,1,0.0015,0.0015,
+D009765,species,287,Pseudomonas aeruginosa,Bacteria,1,0.70944,0.70944,
+D009765,species,306,Pseudomonas sp.,Bacteria,3,0.014573333,0.01518,0.001504704
+D009765,species,470,Acinetobacter baumannii,Bacteria,1,0.00636,0.00636,
+D009765,species,545,Citrobacter koseri,Bacteria,2,0.09207,0.09207,0.127646916
+D009765,species,546,Citrobacter freundii,Bacteria,29,0.058068966,0.01406,0.111605756
+D009765,species,548,[Enterobacter] aerogenes,Bacteria,9,0.07714,0.02907,0.097856659
+D009765,species,550,Enterobacter cloacae,Bacteria,52,0.304961731,0.025705,0.714401799
+D009765,species,562,Escherichia coli,Bacteria,394,2.925283426,0.61487,5.864104913
+D009765,species,564,Escherichia fergusonii,Bacteria,1,0.79052,0.79052,
+D009765,species,569,Hafnia alvei,Bacteria,1,0.00182,0.00182,
+D009765,species,571,Klebsiella oxytoca,Bacteria,9,0.041776667,0.00721,0.069565344
+D009765,species,573,Klebsiella pneumoniae,Bacteria,89,0.662531461,0.11385,1.728710697
+D009765,species,576,Klebsiella sp.,Bacteria,10,0.011119,0.01042,0.009215074
+D009765,species,582,Morganella morganii,Bacteria,5,0.113004,0.11108,0.017378465
+D009765,species,584,Proteus mirabilis,Bacteria,5,0.012344,0.01032,0.007988609
+D009765,species,587,Providencia rettgeri,Bacteria,1,0.01051,0.01051,
+D009765,species,589,Providencia sp.,Bacteria,1,0.03217,0.03217,
+D009765,species,599,Salmonella sp.,Bacteria,1,0.00028,0.00028,
+D009765,species,623,Shigella flexneri,Bacteria,6,0.029853333,0.025735,0.025056326
+D009765,species,624,Shigella sonnei,Bacteria,19,0.087645789,0.05734,0.121015875
+D009765,species,703,Plesiomonas shigelloides,Bacteria,3,0.058673333,0.06491,0.050733323
+D009765,species,726,Haemophilus haemolyticus,Bacteria,4,0.0019975,0.00126,0.001890985
+D009765,species,727,Haemophilus influenzae,Bacteria,2,0.00141,0.00141,0.001315219
+D009765,species,729,Haemophilus parainfluenzae,Bacteria,193,0.228017202,0.0623,0.455333103
+D009765,species,732,Aggregatibacter aphrophilus,Bacteria,1,0.00367,0.00367,
+D009765,species,735,Haemophilus parahaemolyticus,Bacteria,1,0.01563,0.01563,
+D009765,species,739,Aggregatibacter segnis,Bacteria,3,0.00278,0.00155,0.002147766
+D009765,species,817,Bacteroides fragilis,Bacteria,342,0.862422281,0.27442,2.025513652
+D009765,species,818,Bacteroides thetaiotaomicron,Bacteria,521,0.913739251,0.27873,1.857097167
+D009765,species,820,Bacteroides uniformis,Bacteria,774,3.358542804,1.249475,5.015133707
+D009765,species,821,Bacteroides vulgatus,Bacteria,720,3.728980722,1.445165,5.863875516
+D009765,species,823,Parabacteroides distasonis,Bacteria,582,0.831782096,0.232735,1.460553052
+D009765,species,827,Campylobacter ureolyticus,Bacteria,3,0.00908,0.00213,0.012710425
+D009765,species,847,Oxalobacter formigenes,Bacteria,88,0.026277614,0.014085,0.042978196
+D009765,species,849,Fusobacterium gonidiaformans,Bacteria,3,0.862793333,1.13956,0.65067507
+D009765,species,850,Fusobacterium mortiferum,Bacteria,32,2.746685313,0.62851,5.01880111
+D009765,species,851,Fusobacterium nucleatum,Bacteria,17,0.01962,0.0048,0.060586727
+D009765,species,853,Faecalibacterium prausnitzii,Bacteria,774,6.779135607,5.13808,6.33852138
+D009765,species,856,Fusobacterium varium,Bacteria,23,0.108996957,0.03898,0.203897994
+D009765,species,860,Fusobacterium periodonticum,Bacteria,3,0.036336667,0.04509,0.032078568
+D009765,species,861,Fusobacterium ulcerans,Bacteria,26,0.547080385,0.05265,1.201188944
+D009765,species,876,Desulfovibrio desulfuricans,Bacteria,118,0.038167119,0.01366,0.065393323
+D009765,species,901,Desulfovibrio piger,Bacteria,203,0.326322069,0.20184,0.35434881
+D009765,species,905,Acidaminococcus fermentans,Bacteria,26,0.500625,0.094125,1.43812339
+D009765,species,907,Megasphaera elsdenii,Bacteria,89,0.656021461,0.3234,0.780703601
+D009765,species,1244,Leuconostoc gelidum,Bacteria,1,0.01305,0.01305,
+D009765,species,1245,Leuconostoc mesenteroides,Bacteria,25,0.0444268,0.02155,0.050598655
+D009765,species,1246,Leuconostoc lactis,Bacteria,9,0.044928889,0.00665,0.105209368
+D009765,species,1252,Leuconostoc carnosum,Bacteria,2,0.00487,0.00487,0.001668772
+D009765,species,1254,Pediococcus acidilactici,Bacteria,4,0.05939,0.007385,0.107917182
+D009765,species,1255,Pediococcus pentosaceus,Bacteria,2,0.66139,0.66139,0.298526341
+D009765,species,1260,Finegoldia magna,Bacteria,17,0.009152941,0.0094,0.005483051
+D009765,species,1261,Peptostreptococcus anaerobius,Bacteria,7,0.013731429,0.00664,0.017019573
+D009765,species,1262,Peptostreptococcus sp.,Bacteria,22,0.003130909,0.001775,0.004742986
+D009765,species,1264,Ruminococcus albus,Bacteria,103,0.006804369,0.00385,0.008776307
+D009765,species,1265,Ruminococcus flavefaciens,Bacteria,45,0.012486889,0.00485,0.01929142
+D009765,species,1280,Staphylococcus aureus,Bacteria,4,0.0185475,0.010875,0.020381235
+D009765,species,1288,Staphylococcus xylosus,Bacteria,4,0.060335,0.06288,0.007920461
+D009765,species,1302,Streptococcus gordonii,Bacteria,31,0.01213129,0.00512,0.021972598
+D009765,species,1304,Streptococcus salivarius,Bacteria,406,0.281400296,0.093355,0.582560535
+D009765,species,1305,Streptococcus sanguinis,Bacteria,67,0.016237313,0.00545,0.036606617
+D009765,species,1308,Streptococcus thermophilus,Bacteria,147,0.959743605,0.07655,1.743822226
+D009765,species,1309,Streptococcus mutans,Bacteria,20,0.050812,0.006135,0.164055069
+D009765,species,1310,Streptococcus sobrinus,Bacteria,7,0.013181429,0.00205,0.029842371
+D009765,species,1311,Streptococcus agalactiae,Bacteria,4,0.0102225,0.011045,0.007073714
+D009765,species,1318,Streptococcus parasanguinis,Bacteria,323,0.183687895,0.0338,0.54972296
+D009765,species,1322,Blautia hansenii,Bacteria,11,0.047165455,0.00305,0.10495252
+D009765,species,1328,Streptococcus anginosus,Bacteria,51,0.06136098,0.00749,0.176727364
+D009765,species,1334,Streptococcus dysgalactiae,Bacteria,1,0.00783,0.00783,
+D009765,species,1338,Streptococcus intermedius,Bacteria,7,0.00251,0.00151,0.002596883
+D009765,species,1343,Streptococcus vestibularis,Bacteria,65,0.235038462,0.01392,1.249037118
+D009765,species,1351,Enterococcus faecalis,Bacteria,30,0.107506667,0.060615,0.149817026
+D009765,species,1352,Enterococcus faecium,Bacteria,28,0.134006071,0.05862,0.220966549
+D009765,species,1354,Enterococcus hirae,Bacteria,2,1.66569,1.66569,2.224218522
+D009765,species,1358,Lactococcus lactis,Bacteria,59,0.05377678,0.01248,0.124282655
+D009765,species,1363,Lactococcus garvieae,Bacteria,16,0.072306875,0.02637,0.110817851
+D009765,species,1366,Lactococcus raffinolactis,Bacteria,11,0.012737273,0.00958,0.010937431
+D009765,species,1377,Aerococcus viridans,Bacteria,1,0.01129,0.01129,
+D009765,species,1379,Gemella haemolysans,Bacteria,13,0.006156154,0.00218,0.012252482
+D009765,species,1382,Atopobium parvulum,Bacteria,23,0.004696957,0.00459,0.003765152
+D009765,species,1383,Atopobium rimae,Bacteria,4,0.01161,0.00512,0.015054129
+D009765,species,1490,Paraclostridium bifermentans,Bacteria,1,0.00123,0.00123,
+D009765,species,1496,Clostridioides difficile,Bacteria,3,0.05251,0.00091,0.089841881
+D009765,species,1502,Clostridium perfringens,Bacteria,36,0.093012222,0.012215,0.277931275
+D009765,species,1505,Paeniclostridium sordellii,Bacteria,1,0.00576,0.00576,
+D009765,species,1512,[Clostridium] symbiosum,Bacteria,99,0.047152525,0.01177,0.08654924
+D009765,species,1522,[Clostridium] innocuum,Bacteria,68,0.009802647,0.004095,0.022490365
+D009765,species,1531,[Clostridium] clostridioforme,Bacteria,57,0.139151053,0.02034,0.291007368
+D009765,species,1535,[Clostridium] leptum,Bacteria,335,0.095995493,0.03975,0.184729208
+D009765,species,1547,Erysipelatoclostridium ramosum,Bacteria,39,0.054050513,0.01326,0.132331227
+D009765,species,1579,Lactobacillus acidophilus,Bacteria,2,0.016325,0.016325,0.016609938
+D009765,species,1580,Lactobacillus brevis,Bacteria,1,1.40145,1.40145,
+D009765,species,1581,Lactobacillus buchneri,Bacteria,1,0.0002,0.0002,
+D009765,species,1582,Lactobacillus casei,Bacteria,17,0.187002941,0.04976,0.204479138
+D009765,species,1583,Weissella confusa,Bacteria,22,0.555604091,0.004715,1.526324588
+D009765,species,1584,Lactobacillus delbrueckii,Bacteria,55,1.700912909,0.61458,2.676524837
+D009765,species,1590,Lactobacillus plantarum,Bacteria,7,0.025824286,0.00556,0.049940581
+D009765,species,1596,Lactobacillus gasseri,Bacteria,11,0.010643636,0.00472,0.015048946
+D009765,species,1598,Lactobacillus reuteri,Bacteria,5,0.05379,0.04716,0.039748269
+D009765,species,1599,Lactobacillus sakei,Bacteria,22,0.038983182,0.008525,0.054027164
+D009765,species,1604,Lactobacillus amylovorus,Bacteria,1,0.17563,0.17563,
+D009765,species,1605,Lactobacillus animalis,Bacteria,13,0.256672308,0.18341,0.23886815
+D009765,species,1613,Lactobacillus fermentum,Bacteria,8,0.0045025,0.002435,0.006572305
+D009765,species,1622,Lactobacillus murinus,Bacteria,4,0.0209025,0.021505,0.009193078
+D009765,species,1623,Lactobacillus ruminis,Bacteria,146,1.867973767,0.650815,3.077337889
+D009765,species,1624,Lactobacillus salivarius,Bacteria,29,0.229675172,0.02566,0.791047303
+D009765,species,1625,Lactobacillus sanfranciscensis,Bacteria,5,0.076738,0.00489,0.121210689
+D009765,species,1633,Lactobacillus vaginalis,Bacteria,6,0.005891667,0.00231,0.009088167
+D009765,species,1655,Actinomyces naeslundii,Bacteria,1,0.0035,0.0035,
+D009765,species,1656,Actinomyces viscosus,Bacteria,5,0.0046,0.00051,0.008922923
+D009765,species,1660,Actinomyces odontolyticus,Bacteria,30,0.008719,0.004325,0.009949345
+D009765,species,1680,Bifidobacterium adolescentis,Bacteria,530,5.436789849,2.43961,7.379168866
+D009765,species,1681,Bifidobacterium bifidum,Bacteria,82,0.775955244,0.505635,1.151626782
+D009765,species,1683,Bifidobacterium angulatum,Bacteria,81,2.250815309,2.15146,1.503845971
+D009765,species,1685,Bifidobacterium breve,Bacteria,10,0.088256,0.054055,0.077878672
+D009765,species,1686,Bifidobacterium catenulatum,Bacteria,81,0.060215309,0.0184,0.182386334
+D009765,species,1689,Bifidobacterium dentium,Bacteria,28,0.016931071,0.01241,0.01562028
+D009765,species,1735,Holdemanella biformis,Bacteria,448,1.274529129,0.76741,2.146145121
+D009765,species,1736,Eubacterium limosum,Bacteria,17,0.015549412,0.0087,0.017991717
+D009765,species,1744,Propionibacterium freudenreichii,Bacteria,6,0.054928333,0.066275,0.030739478
+D009765,species,1750,Propionibacterium propionicum,Bacteria,2,0.00271,0.00271,0.001173797
+D009765,species,2039,Tropheryma whipplei,Bacteria,2,0.002255,0.002255,0.000586899
+D009765,species,2047,Rothia dentocariosa,Bacteria,2,0.00086,0.00086,0.000141421
+D009765,species,2173,Methanobrevibacter smithii,Archaea,227,0.904944053,0.32795,1.342246334
+D009765,species,2317,Methanosphaera stadtmanae,Archaea,36,0.125256667,0.0506,0.167573554
+D009765,species,2702,Gardnerella vaginalis,Bacteria,11,0.032502727,0.01008,0.071324392
+D009765,species,2751,Carnobacterium maltaromaticum,Bacteria,1,0.01304,0.01304,
+D009765,species,28025,Bifidobacterium animalis,Bacteria,39,0.184316667,0.09443,0.232670572
+D009765,species,28026,Bifidobacterium pseudocatenulatum,Bacteria,187,0.634273476,0.23362,1.457280343
+D009765,species,28037,Streptococcus mitis,Bacteria,10,0.003691,0.001995,0.005297227
+D009765,species,28038,Lactobacillus curvatus,Bacteria,6,0.051008333,0.023655,0.064341166
+D009765,species,28090,Acinetobacter lwoffii,Bacteria,1,1.90173,1.90173,
+D009765,species,28111,Bacteroides eggerthii,Bacteria,259,1.499298263,0.42363,4.147830242
+D009765,species,28116,Bacteroides ovatus,Bacteria,565,1.111736584,0.27778,2.134225695
+D009765,species,28117,Alistipes putredinis,Bacteria,645,2.593498078,1.64543,2.974421735
+D009765,species,28118,Odoribacter splanchnicus,Bacteria,228,0.746760439,0.61822,0.555732125
+D009765,species,28121,Butyrivibrio sp.,Bacteria,2,0.013555,0.013555,0.011886465
+D009765,species,28123,Porphyromonas asaccharolytica,Bacteria,16,0.00822875,0.003675,0.010052942
+D009765,species,28125,Prevotella bivia,Bacteria,27,0.006867037,0.00385,0.008688468
+D009765,species,28126,Prevotella buccae,Bacteria,5,0.004204,0.00279,0.004330379
+D009765,species,28127,Prevotella buccalis,Bacteria,10,0.009217,0.00542,0.011306856
+D009765,species,28130,Prevotella disiens,Bacteria,8,0.01104875,0.0033,0.020646255
+D009765,species,28131,Prevotella intermedia,Bacteria,1,0.00137,0.00137,
+D009765,species,28141,Cronobacter sakazakii,Bacteria,5,0.45714,0.00693,0.980504936
+D009765,species,28197,Arcobacter butzleri,Bacteria,1,0.00153,0.00153,
+D009765,species,28901,Salmonella enterica,Bacteria,1,0.00092,0.00092,
+D009765,species,29347,[Clostridium] scindens,Bacteria,45,0.008817778,0.00184,0.012133001
+D009765,species,29348,[Clostridium] spiroforme,Bacteria,4,0.4085025,0.262515,0.383509905
+D009765,species,29361,Tyzzerella nexilis,Bacteria,85,1.230776706,0.07508,3.017111914
+D009765,species,29391,Gemella morbillorum,Bacteria,12,0.008578333,0.006485,0.007269169
+D009765,species,29466,Veillonella parvula,Bacteria,225,0.102370311,0.02997,0.232658305
+D009765,species,31971,[Eubacterium] dolichum,Bacteria,49,0.082643265,0.02187,0.171802842
+D009765,species,31973,Eggerthia catenaformis,Bacteria,2,0.0019,0.0019,0.001612203
+D009765,species,33031,Peptoniphilus lacrimalis,Bacteria,8,0.01208,0.01027,0.007142245
+D009765,species,33033,Parvimonas micra,Bacteria,10,0.125066,0.020465,0.254137106
+D009765,species,33035,Blautia producta,Bacteria,14,0.011784286,0.007445,0.011512694
+D009765,species,33037,Anaerococcus vaginalis,Bacteria,8,0.00809875,0.006325,0.008340592
+D009765,species,33038,[Ruminococcus] gnavus,Bacteria,251,0.905980717,0.10097,2.145242967
+D009765,species,33039,[Ruminococcus] torques,Bacteria,747,1.768379505,1.12235,1.948738286
+D009765,species,33043,Coprococcus eutactus,Bacteria,77,1.27107961,0.74928,2.384491708
+D009765,species,33959,Lactobacillus johnsonii,Bacteria,2,0.07198,0.07198,0.086733718
+D009765,species,33964,Leuconostoc citreum,Bacteria,5,0.007704,0.00249,0.009252253
+D009765,species,33968,Leuconostoc pseudomesenteroides,Bacteria,7,0.008354286,0.00399,0.010904644
+D009765,species,34028,Comamonas sp.,Bacteria,1,0.00418,0.00418,
+D009765,species,35517,[Eubacterium] brachy,Bacteria,11,0.003050909,0.00177,0.002616553
+D009765,species,35833,Bilophila wadsworthia,Bacteria,212,0.051385472,0.02676,0.072266903
+D009765,species,36773,Burkholderia sp.,Bacteria,2,0.0179,0.0179,0.006788225
+D009765,species,36834,Clostridium celatum,Bacteria,10,0.050219,0.02235,0.06350143
+D009765,species,36841,Terrisporobacter glycolicus,Bacteria,1,0.00058,0.00058,
+D009765,species,37734,Enterococcus casseliflavus,Bacteria,3,0.277896667,0.20769,0.312815688
+D009765,species,39483,Faecalitalea cylindroides,Bacteria,60,0.217453667,0.09218,0.341073736
+D009765,species,39485,[Eubacterium] eligens,Bacteria,541,1.859556063,0.63374,2.711344929
+D009765,species,39486,Dorea formicigenerans,Bacteria,714,0.593566275,0.398515,0.565216806
+D009765,species,39488,[Eubacterium] hallii,Bacteria,731,1.158374952,0.54646,2.100591337
+D009765,species,39490,Eubacterium ramulus,Bacteria,556,0.400352338,0.15328,0.630853814
+D009765,species,39491,[Eubacterium] rectale,Bacteria,781,9.962007823,6.36019,10.41784118
+D009765,species,39492,[Eubacterium] siraeum,Bacteria,380,1.312053763,0.48244,2.304087166
+D009765,species,39496,Eubacterium ventriosum,Bacteria,462,0.480781926,0.206305,0.900235565
+D009765,species,39777,Veillonella atypica,Bacteria,135,0.041557407,0.01885,0.064849696
+D009765,species,39778,Veillonella dispar,Bacteria,100,0.0249694,0.00933,0.044536506
+D009765,species,40518,Ruminococcus bromii,Bacteria,661,4.642142648,3.05796,5.717832127
+D009765,species,40519,Ruminococcus callidus,Bacteria,156,0.172583782,0.08289,0.249150887
+D009765,species,40520,Blautia obeum,Bacteria,754,0.767424032,0.43668,0.870900467
+D009765,species,40545,Sutterella wadsworthensis,Bacteria,272,0.617378015,0.171855,0.914213333
+D009765,species,41114,Actinobacillus sp.,Bacteria,6,0.007396667,0.006785,0.00293185
+D009765,species,43675,Rothia mucilaginosa,Bacteria,52,0.011258462,0.00423,0.015252482
+D009765,species,44008,Enterococcus cecorum,Bacteria,1,0.00173,0.00173,
+D009765,species,45634,Streptococcus cristatus,Bacteria,11,0.006488182,0.00485,0.007278261
+D009765,species,45851,Butyrivibrio crossotus,Bacteria,161,10.46486335,2.6033,15.25598647
+D009765,species,46124,Granulicatella adiacens,Bacteria,39,0.012120769,0.00431,0.022319587
+D009765,species,46125,Abiotrophia defectiva,Bacteria,16,0.0035625,0.003245,0.002384865
+D009765,species,46228,Ruminococcus lactaris,Bacteria,494,0.778112713,0.48093,0.977766238
+D009765,species,46503,Parabacteroides merdae,Bacteria,534,1.332191498,0.7988,1.569171388
+D009765,species,46506,Bacteroides stercoris,Bacteria,383,3.952917337,0.6346,7.829265628
+D009765,species,47678,Bacteroides caccae,Bacteria,392,1.614008214,0.943285,2.27069336
+D009765,species,47715,Lactobacillus rhamnosus,Bacteria,5,0.021318,0.00501,0.036447297
+D009765,species,47770,Lactobacillus crispatus,Bacteria,3,0.352133333,0.02414,0.584388077
+D009765,species,51123,[Eubacterium] saphenum,Bacteria,5,0.004522,0.00379,0.001679604
+D009765,species,52226,Mitsuokella multacida,Bacteria,62,0.341086129,0.101605,0.715187525
+D009765,species,53345,Enterococcus durans,Bacteria,3,0.034346667,0.0242,0.0354174
+D009765,species,53346,Enterococcus mundtii,Bacteria,1,0.00878,0.00878,
+D009765,species,53443,Blautia hydrogenotrophica,Bacteria,27,0.043031852,0.01647,0.060220416
+D009765,species,54005,Peptoniphilus harei,Bacteria,6,0.005888333,0.00434,0.005350848
+D009765,species,54291,Raoultella ornithinolytica,Bacteria,5,0.008874,0.00393,0.012277171
+D009765,species,55565,Actinomyces graevenitzii,Bacteria,31,0.007311935,0.00465,0.007615489
+D009765,species,56774,[Eubacterium] infirmum,Bacteria,20,0.003752,0.002355,0.004123771
+D009765,species,59310,Streptococcus macedonicus,Bacteria,7,0.0118,0.0021,0.02122108
+D009765,species,59505,Actinotignum schaalii,Bacteria,1,0.00017,0.00017,
+D009765,species,61171,Holdemania filiformis,Bacteria,242,0.039866736,0.020865,0.055809505
+D009765,species,61592,Corynebacterium durum,Bacteria,1,0.00755,0.00755,
+D009765,species,66852,Methanobrevibacter sp.,Archaea,2,0.003025,0.003025,0.00159099
+D009765,species,68891,Streptococcus peroris,Bacteria,1,0.00146,0.00146,
+D009765,species,68892,Streptococcus infantis,Bacteria,52,0.008393269,0.004045,0.010809572
+D009765,species,69393,Pantoea sp.,Bacteria,9,0.021561111,0.01737,0.015420224
+D009765,species,74426,Collinsella aerofaciens,Bacteria,585,2.907527043,1.6354,3.83839498
+D009765,species,76517,Campylobacter hominis,Bacteria,7,0.014195714,0.00517,0.015031869
+D009765,species,76860,Streptococcus constellatus,Bacteria,10,0.002935,0.002765,0.001235433
+D009765,species,82135,Atopobium vaginae,Bacteria,4,0.04503,0.011995,0.074481453
+D009765,species,84026,[Clostridium] methylpentosum,Bacteria,12,0.0060575,0.00411,0.005155456
+D009765,species,84112,Eggerthella lenta,Bacteria,79,0.016233291,0.00477,0.044699071
+D009765,species,84135,Gemella sanguinis,Bacteria,45,0.014620444,0.00711,0.023880593
+D009765,species,88431,Dorea longicatena,Bacteria,752,1.299021742,0.84158,1.277082873
+D009765,species,89152,[Clostridium] hiranonis,Bacteria,5,0.347978,0.18891,0.327275437
+D009765,species,97478,Lactobacillus mucosae,Bacteria,7,0.123528571,0.10507,0.120675789
+D009765,species,100884,Coprobacillus cateniformis,Bacteria,21,0.992818571,0.67043,0.874770421
+D009765,species,100886,Catenibacterium mitsuokai,Bacteria,132,1.986122803,1.148895,2.4902627
+D009765,species,102148,Solobacterium moorei,Bacteria,56,0.014285,0.00502,0.024904873
+D009765,species,102684,Streptococcus infantarius,Bacteria,14,0.038473571,0.019095,0.046653969
+D009765,species,102862,Proteus penneri,Bacteria,2,0.01066,0.01066,0.009984348
+D009765,species,103892,Veillonella ratti,Bacteria,1,9.37033,9.37033,
+D009765,species,104608,Leptotrichia sp.,Bacteria,1,0.00269,0.00269,
+D009765,species,105841,Anaerostipes caccae,Bacteria,7,0.05482,0.00741,0.089994129
+D009765,species,106588,Pseudoflavonifractor capillosus,Bacteria,117,0.020259145,0.00806,0.048163693
+D009765,species,113107,Streptococcus australis,Bacteria,141,0.03801234,0.01689,0.050746065
+D009765,species,115778,Leuconostoc gelidum subsp. gasicomitatum,Bacteria,1,0.00178,0.00178,
+D009765,species,116085,Coprococcus catus,Bacteria,565,0.304941239,0.17397,0.332517956
+D009765,species,118748,Bulleidia extructa,Bacteria,5,0.00176,0.00045,0.002476257
+D009765,species,131111,Actinomyces turicensis,Bacteria,20,0.084652,0.011,0.105717994
+D009765,species,133926,Olsenella uli,Bacteria,3,0.00137,0.00145,0.000425676
+D009765,species,137591,Weissella cibaria,Bacteria,13,0.037076154,0.00791,0.053126444
+D009765,species,137732,Granulicatella elegans,Bacteria,3,0.00132,0.00084,0.001064519
+D009765,species,147206,Collinsella stercoris,Bacteria,5,0.075172,0.00356,0.145852703
+D009765,species,147207,Collinsella intestinalis,Bacteria,68,5.261065441,2.06733,7.443410937
+D009765,species,150055,Streptococcus lutetiensis,Bacteria,7,0.10139,0.10046,0.080646836
+D009765,species,154046,Hungatella hathewayi,Bacteria,128,0.132098203,0.013855,0.370519739
+D009765,species,154288,Turicibacter sanguinis,Bacteria,32,0.073797813,0.004195,0.227400258
+D009765,species,156456,Anaeroglobus geminatus,Bacteria,2,0.00617,0.00617,0.005515433
+D009765,species,158847,Megamonas hypermegale,Bacteria,62,2.639895323,0.44232,3.977310024
+D009765,species,160386,Corynebacterium casei,Bacteria,1,0.00857,0.00857,
+D009765,species,165179,Prevotella copri,Bacteria,380,12.66879642,4.338725,16.98620592
+D009765,species,166486,Roseburia intestinalis,Bacteria,574,1.704867962,1.21161,2.114139042
+D009765,species,168810,Corynebacterium crenatum,Bacteria,1,0.00405,0.00405,
+D009765,species,169435,Anaerotruncus colihominis,Bacteria,80,0.04500375,0.00695,0.12186847
+D009765,species,174709,Allobaculum stercoricanis,Bacteria,1,0.04591,0.04591,
+D009765,species,178214,Facklamia hominis,Bacteria,1,0.0083,0.0083,
+D009765,species,181487,Actinomyces cardiffensis,Bacteria,1,0.00024,0.00024,
+D009765,species,184870,Varibaculum cambriense,Bacteria,1,0.00038,0.00038,
+D009765,species,187326,Megasphaera micronuciformis,Bacteria,10,0.013802,0.00517,0.028489822
+D009765,species,187327,Acidaminococcus intestini,Bacteria,97,0.123863608,0.04163,0.175824277
+D009765,species,188913,Cetobacterium somerae,Bacteria,3,0.01294,0.00715,0.01103058
+D009765,species,197614,Streptococcus pasteurianus,Bacteria,12,0.625691667,0.051965,1.922685009
+D009765,species,204516,Bacteroides massiliensis,Bacteria,379,2.431228892,0.71481,4.357846049
+D009765,species,208479,[Clostridium] bolteae,Bacteria,233,0.262734936,0.0399,0.843107547
+D009765,species,208962,Escherichia albertii,Bacteria,1,0.01124,0.01124,
+D009765,species,214851,Subdoligranulum variabile,Bacteria,95,0.004768526,0.00267,0.005763236
+D009765,species,214853,Anaerofustis stercorihominis,Bacteria,12,0.006170833,0.00343,0.005881865
+D009765,species,214856,Alistipes finegoldii,Bacteria,280,0.284941607,0.06052,0.644341525
+D009765,species,216816,Bifidobacterium longum,Bacteria,560,1.468118661,0.7099,2.136600272
+D009765,species,218538,Dialister invisus,Bacteria,183,11.09075645,4.96276,14.596803
+D009765,species,228604,Prevotella salivae,Bacteria,1,0.00939,0.00939,
+D009765,species,230143,Scardovia wiggsiae,Bacteria,16,0.00328625,0.00197,0.003269948
+D009765,species,231049,Lactobacillus rossiae,Bacteria,1,0.00361,0.00361,
+D009765,species,237576,Oribacterium sinus,Bacteria,15,0.004420667,0.00214,0.006810551
+D009765,species,239935,Akkermansia muciniphila,Bacteria,391,3.454418184,0.87408,7.358245284
+D009765,species,244366,Klebsiella variicola,Bacteria,1,0.00445,0.00445,
+D009765,species,246787,Bacteroides cellulosilyticus,Bacteria,372,1.677780296,0.33699,3.950639898
+D009765,species,248039,Mucispirillum schaedleri,Bacteria,1,0.05206,0.05206,
+D009765,species,249188,Haemophilus pittmaniae,Bacteria,4,0.031035,0.011955,0.043729429
+D009765,species,257758,Streptococcus pseudopneumoniae,Bacteria,3,0.00282,0.00269,0.002287772
+D009765,species,261299,Intestinibacter bartlettii,Bacteria,301,0.195542226,0.05998,0.401677759
+D009765,species,281920,Porphyromonas uenonis,Bacteria,7,0.006727143,0.00286,0.007261441
+D009765,species,291644,Bacteroides salyersiae,Bacteria,181,0.752180994,0.18909,1.454470538
+D009765,species,291645,Bacteroides nordii,Bacteria,102,0.065813824,0.01237,0.140703538
+D009765,species,292800,Flavonifractor plautii,Bacteria,219,0.046553379,0.01723,0.081419972
+D009765,species,301301,Roseburia hominis,Bacteria,617,0.739639806,0.27595,1.198365465
+D009765,species,309120,Dialister micraerophilus,Bacteria,2,0.00132,0.00132,0.000381838
+D009765,species,310297,Bacteroides plebeius,Bacteria,239,2.7444441,0.52495,5.877377277
+D009765,species,310298,Bacteroides coprocola,Bacteria,131,5.05107458,2.30309,7.78457537
+D009765,species,315405,Streptococcus gallolyticus,Bacteria,2,0.001405,0.001405,0.001180868
+D009765,species,322095,Porphyromonas somerae,Bacteria,8,0.02224875,0.00695,0.039897915
+D009765,species,328812,Parabacteroides goldsteinii,Bacteria,126,0.29111119,0.03148,0.964888657
+D009765,species,328813,Alistipes onderdonkii,Bacteria,412,0.832306238,0.207575,1.608498377
+D009765,species,328814,Alistipes shahii,Bacteria,538,0.451904796,0.212495,0.625317435
+D009765,species,329854,Bacteroides intestinalis,Bacteria,168,0.861742381,0.092155,1.915434377
+D009765,species,333367,[Clostridium] asparagiforme,Bacteria,121,0.033571074,0.00877,0.07291734
+D009765,species,338188,Bacteroides finegoldii,Bacteria,297,0.680547475,0.246,1.354364401
+D009765,species,341694,Peptostreptococcus stomatis,Bacteria,23,0.018227391,0.00287,0.059980114
+D009765,species,357276,Bacteroides dorei,Bacteria,541,3.215745009,0.51665,7.502904875
+D009765,species,358743,[Clostridium] citroniae,Bacteria,143,0.019833846,0.01023,0.028050372
+D009765,species,360807,Roseburia inulinivorans,Bacteria,709,1.376866403,0.70257,2.025568343
+D009765,species,363265,Prevotella stercorea,Bacteria,90,4.050877778,0.97545,8.849770643
+D009765,species,371601,Bacteroides xylanisolvens,Bacteria,419,0.384603079,0.0777,0.935818881
+D009765,species,376804,Bacteroides barnesiae,Bacteria,7,4.134048571,0.71861,6.417415601
+D009765,species,376805,Bacteroides salanitronis,Bacteria,5,1.633248,1.58808,1.260041684
+D009765,species,384638,[Bacteroides] pectinophilus,Bacteria,14,2.383527143,0.553455,4.082022734
+D009765,species,386414,Prevotella timonensis,Bacteria,6,0.01185,0.006455,0.015590642
+D009765,species,387090,Bacteroides coprophilus,Bacteria,66,3.271739242,2.084135,3.483993877
+D009765,species,387661,Parabacteroides johnsonii,Bacteria,144,0.280153958,0.040055,1.008295952
+D009765,species,410072,Coprococcus comes,Bacteria,721,1.155812386,0.88823,1.058768869
+D009765,species,411486,Clostridium sp. M62/1,Bacteria,1,1.38056,1.38056,
+D009765,species,411489,Clostridium sp. L2-50,Bacteria,73,3.275702192,2.67563,3.406412402
+D009765,species,413497,Cronobacter dublinensis,Bacteria,1,0.01465,0.01465,
+D009765,species,413503,Cronobacter malonaticus,Bacteria,1,0.00775,0.00775,
+D009765,species,416586,Selenomonas bovis,Bacteria,2,0.058915,0.058915,0.065768002
+D009765,species,419005,Prevotella amnii,Bacteria,1,0.53746,0.53746,
+D009765,species,419015,Alloscardovia omnicolens,Bacteria,11,0.006378182,0.0035,0.005773396
+D009765,species,437897,Megamonas funiformis,Bacteria,41,1.880140488,0.50233,3.671711563
+D009765,species,437898,Sutterella parvirubra,Bacteria,1,2.26319,2.26319,
+D009765,species,446660,Adlercreutzia equolifaciens,Bacteria,297,0.19415835,0.05405,0.320714336
+D009765,species,447455,candidate division TM7 single-cell isolate TM7b,Bacteria,6,0.009816667,0.01117,0.006052427
+D009765,species,447456,candidate division TM7 single-cell isolate TM7c,Bacteria,17,0.009747647,0.00373,0.011675388
+D009765,species,454154,Paraprevotella clara,Bacteria,272,0.542172169,0.184965,1.368403638
+D009765,species,454155,Paraprevotella xylaniphila,Bacteria,169,0.291356923,0.02909,1.651464208
+D009765,species,457390,Bacteroides sp. 3_1_23,Bacteria,1,0.21865,0.21865,
+D009765,species,457392,Bacteroides sp. 3_2_5,Bacteria,2,1.95686,1.95686,2.379668877
+D009765,species,457394,Bacteroides sp. 4_3_47FAA,Bacteria,4,16.4679475,11.5104,15.05496353
+D009765,species,457395,Bacteroides sp. 9_1_42FAA,Bacteria,1,6.67218,6.67218,
+D009765,species,457402,Eubacterium sp. 3_1_31,Bacteria,35,0.068727714,0.00748,0.154776786
+D009765,species,457412,Ruminococcus sp. 5_1_39BFAA,Bacteria,325,2.215012308,1.34404,2.405440812
+D009765,species,457415,Synergistes sp. 3_1_syn1,Bacteria,2,1.005335,1.005335,0.851024224
+D009765,species,457416,Veillonella sp. 3_1_44,Bacteria,1,0.3726,0.3726,
+D009765,species,457421,Clostridiales bacterium 1_7_47FAA,Bacteria,72,0.019387361,0.007275,0.033640211
+D009765,species,457422,Erysipelotrichaceae bacterium 2_2_44A,Bacteria,91,0.021132088,0.00323,0.053655626
+D009765,species,469585,Bacteroides sp. 1_1_14,Bacteria,5,3.4737,3.50656,0.718587716
+D009765,species,469588,Bacteroides sp. 2_1_22,Bacteria,20,1.544836,0.95708,1.660850894
+D009765,species,469592,Bacteroides sp. 3_1_19,Bacteria,15,2.723575333,3.38306,1.874029102
+D009765,species,469610,Burkholderiales bacterium 1_1_47,Bacteria,160,0.151061188,0.044025,0.236109002
+D009765,species,469613,Enterobacteriaceae bacterium 9_2_54FAA,Bacteria,1,0.02027,0.02027,
+D009765,species,469614,Erysipelotrichaceae bacterium 6_1_45,Bacteria,78,0.030264359,0.004525,0.095799384
+D009765,species,471189,Gordonibacter pamelaeae,Bacteria,165,0.123340667,0.02238,0.26671161
+D009765,species,487173,Dialister succinatiphilus,Bacteria,61,4.164909508,1.90988,5.767459978
+D009765,species,487174,Barnesiella intestinihominis,Bacteria,521,1.401865893,0.80505,1.776701358
+D009765,species,487175,Parasutterella excrementihominis,Bacteria,181,0.13960884,0.03784,0.255128186
+D009765,species,491921,Megamonas rupellensis,Bacteria,55,1.049423636,0.06337,1.895380607
+D009765,species,501496,Porphyromonas bennonis,Bacteria,12,0.007438333,0.002555,0.009661947
+D009765,species,501571,Butyricicoccus pullicaecorum,Bacteria,19,0.076867368,0.00166,0.189054901
+D009765,species,507750,Peptoniphilus duerdenii,Bacteria,2,0.00918,0.00918,0.009970206
+D009765,species,539813,Enterobacter mori,Bacteria,3,0.081596667,0.00298,0.138330067
+D009765,species,544580,Actinomyces oris,Bacteria,3,0.007416667,0.00914,0.004003578
+D009765,species,544581,Actinomyces johnsonii,Bacteria,1,0.00033,0.00033,
+D009765,species,544644,Butyricimonas synergistica,Bacteria,32,0.035014688,0.00099,0.105126667
+D009765,species,552395,Lachnospiraceae bacterium 4_1_37FAA,Bacteria,28,0.0149825,0.006025,0.018172529
+D009765,species,552396,Erysipelotrichaceae bacterium 5_2_54FAA,Bacteria,20,0.408755,0.01559,0.762752361
+D009765,species,552398,Ruminococcaceae bacterium D16,Bacteria,161,0.11816528,0.00648,0.314310763
+D009765,species,563193,Parabacteroides sp. D13,Bacteria,20,2.1882415,2.060625,1.054004072
+D009765,species,626929,Bacteroides clarus,Bacteria,144,0.339424931,0.066565,0.982512687
+D009765,species,626930,Bacteroides fluxus,Bacteria,1,1.03635,1.03635,
+D009765,species,626931,Bacteroides oleiciplenus,Bacteria,23,0.567216957,0.01886,1.060663753
+D009765,species,626932,Alistipes indistinctus,Bacteria,284,0.154317007,0.035815,0.267082643
+D009765,species,626933,Odoribacter laneus,Bacteria,8,0.39198375,0.499235,0.252285057
+D009765,species,626934,Slackia piriformis,Bacteria,84,0.29888631,0.121345,0.465373405
+D009765,species,626935,Collinsella tanakaei,Bacteria,63,0.210964286,0.06741,0.403679911
+D009765,species,626938,Succinatimonas hippei,Bacteria,44,0.2253075,0.06522,0.311533897
+D009765,species,626940,Phascolarctobacterium succinatutens,Bacteria,206,4.063217913,3.64602,3.220471072
+D009765,species,638849,Pyramidobacter piscolens,Bacteria,9,0.016913333,0.01292,0.018604377
+D009765,species,649724,Clostridium sp. ATCC BAA-442,Bacteria,4,0.436555,0.35821,0.378095647
+D009765,species,649756,Anaerostipes hadrus,Bacteria,437,0.098284325,0.03931,0.205791918
+D009765,species,658081,Lachnospiraceae bacterium 1_1_57FAA,Bacteria,342,0.698739503,0.335345,1.04863664
+D009765,species,658082,Lachnospiraceae bacterium 2_1_58FAA,Bacteria,130,0.150196462,0.024045,0.410599242
+D009765,species,658083,Lachnospiraceae bacterium 6_1_63FAA,Bacteria,42,0.037680238,0.00825,0.090752629
+D009765,species,658085,Lachnospiraceae bacterium 5_1_57FAA,Bacteria,48,0.041057292,0.019005,0.063651928
+D009765,species,658086,Lachnospiraceae bacterium 3_1_57FAA_CT1,Bacteria,106,0.121088868,0.01391,0.356996783
+D009765,species,658087,Lachnospiraceae bacterium 7_1_58FAA,Bacteria,413,0.07220138,0.02481,0.199170838
+D009765,species,658088,Lachnospiraceae bacterium 9_1_43BFAA,Bacteria,52,0.068746731,0.009515,0.208588715
+D009765,species,658089,Lachnospiraceae bacterium 5_1_63FAA,Bacteria,517,0.133683385,0.06767,0.24093189
+D009765,species,658655,Lachnospiraceae bacterium 1_4_56FAA,Bacteria,138,0.06859587,0.024525,0.140004175
+D009765,species,658657,Erysipelotrichaceae bacterium 21_3,Bacteria,96,0.00635625,0.00311,0.009045588
+D009765,species,658659,Erysipelotrichaceae bacterium 3_1_53,Bacteria,10,0.028737,0.019905,0.021450286
+D009765,species,665950,Lachnospiraceae bacterium 3_1_46FAA,Bacteria,442,0.297296357,0.144985,0.429789423
+D009765,species,665951,Lachnospiraceae bacterium 8_1_57FAA,Bacteria,290,0.673323517,0.43189,0.715345856
+D009765,species,665956,Subdoligranulum sp. 4_3_54A2FAA,Bacteria,36,0.552630833,0.31767,0.865816597
+D009765,species,671266,Enterorhabdus caecimuris,Bacteria,1,0.02624,0.02624,
+D009765,species,674529,Bacteroides faecis,Bacteria,214,0.725348832,0.03184,1.470575743
+D009765,species,693988,Bilophila sp. 4_1_30,Bacteria,1,0.31639,0.31639,
+D009765,species,699192,Megasphaera genomosp. type_1,Bacteria,1,0.02246,0.02246,
+D009765,species,742723,Lachnospiraceae bacterium 2_1_46FAA,Bacteria,16,0.43974,0.208655,0.510294552
+D009765,species,749535,Klebsiella sp. MS 92-3,Bacteria,4,0.2413975,0.15997,0.217075063
+D009765,species,751585,Coprococcus sp. ART55/1,Bacteria,171,5.592240234,3.28445,6.789748292
+D009765,species,796942,Stomatobaculum longum,Bacteria,2,0.002805,0.002805,0.003500179
+D009765,species,908612,Alistipes sp. HGB5,Bacteria,10,0.833219,0.581055,0.671211995
+D009765,species,936548,Actinomyces sp. ICM47,Bacteria,1,0.09647,0.09647,
+D009765,species,1070699,Clostridiaceae bacterium JC118,Bacteria,64,0.034316406,0.01354,0.065190612
+D009765,species,1077464,Streptococcus tigurinus,Bacteria,10,0.002167,0.002065,0.000820949
+D009765,species,1078480,Haemophilus sputorum,Bacteria,4,0.02455,0.00566,0.041062758
+D009765,species,1095771,Ruminococcus sp. JC304,Bacteria,4,0.17327,0.16235,0.074690753
+D009765,species,1099853,Coprobacter fastidiosus,Bacteria,236,0.227761144,0.04023,0.506390833
+D009765,species,1105032,Streptococcus sp. BS35b,Bacteria,1,0.03159,0.03159,
+D009765,species,1111120,Acidaminococcus sp. BV3L6,Bacteria,10,1.212761,1.340585,0.299380297
+D009765,species,1118060,Enorma massiliensis phI,Bacteria,71,0.941933099,0.12932,1.359130242
+D009765,species,1118061,Alistipes obesi,Bacteria,446,0.308435897,0.17499,0.390284411
+D009765,species,1161942,Ruminococcus champanellensis,Bacteria,16,0.63358875,0.376215,0.897187739
+D009765,species,1203556,Actinomyces sp. HPA0247,Bacteria,1,0.13538,0.13538,
+D009765,species,1211813,Candidatus Alistipes marseilloanorexicus AP11,Bacteria,56,0.607057857,0.40723,0.541178889
+D009765,species,1211819,Holdemania massiliensis AP2,Bacteria,11,0.194784545,0.17124,0.098065855
+D009765,species,1226322,Oscillibacter sp. KLE 1728,Bacteria,1,0.64922,0.64922,
+D009765,species,1226323,Oscillibacter sp. KLE 1745,Bacteria,43,0.716064419,0.53996,0.539059535
+D009765,species,1226325,Clostridium sp. KLE 1755,Bacteria,5,0.608412,0.50442,0.452928066
+D009765,species,1287640,Anaerococcus obesiensis,Bacteria,5,0.004864,0.00125,0.006922675
+D009765,species,1288121,Alistipes senegalensis,Bacteria,256,0.032750586,0.014675,0.055939923
+D009765,species,1329817,Enterobacter sp. MGH 8,Bacteria,1,0.66243,0.66243,
+D009765,species,1486246,Halomonas sp.,Bacteria,1,0.01453,0.01453,

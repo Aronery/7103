@@ -1,0 +1,10 @@
+1. For each disease, I've provided 2 abundance matrices for Health(D006262) and Disease(DXXXXXX), with the same species. 
+    This's enough for you to start trying to do classification between Health and each disease using your own model/algorithm
+2. And for each abundance matrix, all metadata of the runs(samples) are provided, including Health(D006262). You can see the
+    types of information includes Age, Gender, BMI,... Therefore, you can also try some regression model with the matrices. However, you
+    need to first filter the samples, only QC = 1 used.
+3. Generally in my workflow, I select species with "median.relative.abundance>=0.01". That's why you may see the number of 
+    species(columns) in the abundance matrices are fewer than the number in _species files.
+4. No need for you to know how to use R, try to intimate my workflow with Python or whatever you're familar with.
+ 
+ 

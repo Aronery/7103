@@ -1,0 +1,10 @@
+info:
+1. Folder: DiseaseX_DXXXXXX: shows that DXXXXXX is the ID of DiseaseX in GMrepo.
+2. Files
+    -abundance_mat_species_DXXXXXX_DiseaseX: Sample-by-Species matrix for "DXXXXXX-related-samples" and "DiseaseX-related-species".
+    -Disease_species: metadata of the species related to DiseaseX.
+    -runs_associated_with_DXXXXXX: metadata of the runs related to DXXXXXX.
+    -Load and process: an R tutorial for loading and processing the data files.
+P.S. D006262 is the ID for Health samples, all we currently do is classifyingHealth samples and Disease samples.
+
+Reference: https://gmrepo.humangut.info/
